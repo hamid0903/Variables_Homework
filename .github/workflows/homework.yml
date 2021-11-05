@@ -23,4 +23,4 @@ jobs:
           pip install pytest
       - name: Run tests
         run: |
-          pytest -v --tb=no -r N
+          pytest -v --tb=no
