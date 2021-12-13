@@ -1,3 +1,4 @@
-#Create one variable with any value
-abbos= 100
-print(abbos)
+x=int(5)
+y=float(5.5)
+z=str("Hamid")
+print(x)
